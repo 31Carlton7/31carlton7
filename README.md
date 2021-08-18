@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlton</h1>
-<h3 align="center">A high school developer from Northern Virginia</h3>
+<h3 align="center">A high school developer from Northern Virginia, USA</h3>
 
 - 🔭 I’m currently working on [Kounslr](https://github.com/Kounslr/mobile_app)
 
