@@ -1,0 +1,171 @@
+{
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "jupyter.alwaysTrustNotebooks": true,
+  "workbench.colorTheme": "Atomize",
+  "terminal.integrated.inheritEnv": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "debugTokenExpression.error": "#f88070"
+  },
+  "editor.tokenColorCustomizations": {
+    "variables": "#abb2bf",
+    "functions": "#7ba1f2",
+    "numbers": "#f78c6c",
+    "types": "#ffcb6b",
+    "strings": "#c4e88d",
+    "keywords": "#c792ea",
+    "textMateRules": [
+      {
+        "scope": ["variable.other.constant.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.other.object.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.other.readwrite.alias.tsx"],
+        "settings": {
+          "foreground": "#E06C75"
+        }
+      },
+      {
+        "scope": ["punctuation.accessor.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["punctuation.accessor.optional.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.other.object.property.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.parameter.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.other.property.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["variable.other.readwrite.tsx"],
+        "settings": {
+          "foreground": "#abb2bf"
+        }
+      },
+      {
+        "scope": ["storage.type.function.arrow.tsx"],
+        "settings": {
+          "foreground": "#56B6C2"
+        }
+      },
+      {
+        "scope": ["meta.object-literal.key.tsx"],
+        "settings": {
+          "foreground": "#C4E88D"
+        }
+      },
+      {
+        "scope": ["string.quoted.single.tsx"],
+        "settings": {
+          "foreground": "#C4E88D"
+        }
+      },
+      {
+        "scope": ["punctuation.definition.string.begin.tsx"],
+        "settings": {
+          "foreground": "#C4E88D"
+        }
+      },
+      {
+        "scope": ["punctuation.definition.string.end.tsx"],
+        "settings": {
+          "foreground": "#C4E88D"
+        }
+      },
+      {
+        "scope": ["punctuation.separator.key-value.tsx"],
+        "settings": {
+          "foreground": "#56B6C2"
+        }
+      }
+    ]
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.selectionHighlight": false,
+  "explorer.decorations.colors": false,
+  "explorer.openEditors.visible": 0,
+  "workbench.welcomePage.hiddenCategories": ["Beginner", "Setup"],
+  "workbench.iconTheme": "material-icon-theme",
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "dart.warnWhenEditingFilesOutsideWorkspace": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "tabnine.experimentalAutoImports": true,
+  "dart.warnWhenEditingFilesInPubCache": false,
+  "git.confirmSync": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "json.schemas": [],
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false
+}
