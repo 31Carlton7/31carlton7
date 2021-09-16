@@ -1,15 +1,8 @@
-<p align="center">
-<a href="https://stackoverflow.com/users/14574348/31carlton7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31carlton7" height="30" width="40" /></a>
-<a href="https://instagram.com/31carlton7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="31carlton7" height="30" width="40" /></a>
-<a href="https://dribbble.com/31carlton7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="31carlton7" height="30" width="40" /></a>
-<a href="https://medium.com/@carltonaikins7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@31carlton7" height="30" width="40" /></a> ││ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/></a><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a>
-</p><h1 align="center" display="inline">Hi 👋, I'm Carlton</h1>
+<h3 display="inline">Hi 👋, I'm Carlton</h1>
 
-<div align="center">
-<h3>A high school developer from Northern Virginia, USA</h3>
+<p>I'm a high school developer from Northern Virginia, USA. I'm looking for help with getting internshups and opportunities. You can reach me here: Email: carltonaikins7@gmail.com; Instagram: <a href="https://instagram.com/31Carlton7">@31Carlton7</a></p>
 
-🤝 I’m looking for help with **Getting internships and opportunities**
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
 
-📫 Reach me here **carltonaikins7@gmail.com**
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=31carlton7&show_icons=true&locale=en" alt="31carlton7" /></p>
-</div>
