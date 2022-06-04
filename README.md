@@ -2,8 +2,6 @@
 
 <p>I'm a high school junior from Northern Virginia, USA. Check out my latest project <a href="https://github.com/31Carlton7/elisha">Elisha</a>, an Offline Bible & Church app built with flutter. You can reach me here: Email: <a href="mailto:carltonaikins7@gmail.com">carltonaikins7@gmail.com</a>; LinkedIn: <a href="https://www.linkedin.com/in/carlton-aikins-a34a14226/">@Carlton Aikins</a></p>
 
-![](https://komarev.com/ghpvc/?username=31carlton7&style=flat)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
 
-[![Carlton's GitHub stats](https://github-readme-stats.vercel.app/api?username=31carlton7)](https://github.com/31carlton7/github-readme-stats)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=31carlton7&show_icons=true&locale=en" alt="31carlton7" /></p>
