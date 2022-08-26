@@ -4,4 +4,4 @@
 
 ![](https://komarev.com/ghpvc/?username=31carlton7&style=flat)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=31carlton7&show_icons=true&locale=en" alt="31carlton7" /></p>
+[![Carlton's GitHub stats](https://github-readme-stats.vercel.app/api?username=31carlton7)](https://github.com/anuraghazra/github-readme-stats)
