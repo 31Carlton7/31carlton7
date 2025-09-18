@@ -1,4 +1,4 @@
-<p>i'm carlton, sophomore at the university of southern california<br>majoring in computer engineering & computer science</p>
+<p>i'm carlton, junior at the university of southern california<br>majoring in computer engineering & computer science</p>
 
 <p>i'm probably building the next billion dollar startup...<br> or drowning in cs hw</p>
 
